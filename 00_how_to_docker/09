@@ -1,0 +1,1 @@
+docker run -it debian && apt-get update && apt-get gcc && apt-get git
